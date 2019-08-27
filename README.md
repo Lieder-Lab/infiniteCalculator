@@ -1,2 +1,3 @@
 # infiniteCalculator
-A high precision calculator
+A high precision calculator, updating
+
